@@ -1,2 +1,2 @@
 test1
-conflict
+conflictmade some changes from GitHub
