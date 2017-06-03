@@ -1,4 +1,3 @@
 test1
 conflictmade some changes from GitHub
-
-new devBranch
+more changes from master
