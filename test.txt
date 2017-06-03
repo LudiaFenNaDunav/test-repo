@@ -1,2 +1,2 @@
 test1
-made some changes
+made some changes from GitHub
