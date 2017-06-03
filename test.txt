@@ -1,4 +1,4 @@
 test1
 conflictmade some changes from GitHub
 
-new devBranch
+more new dev branch
